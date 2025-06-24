@@ -65,6 +65,6 @@ Pune, Maharashtra, 411004 <br>
 </p>
 
 <p align="left">
-<a href="mailto:raj.handique519@deccansociety.org" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" alt="outlook" height="40" width="40"></a>
+<a href="mailto:raj.handique519@deccansociety.org" target="_blank"><img src="Resources/outlook.png" alt="outlook" height="40" width="40"></a>
 </p>
 
