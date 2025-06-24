@@ -67,5 +67,6 @@ Pune, Maharashtra, 411004 <br>
 <p align="left">
 <a href="mailto:raj.handique519@deccansociety.org" target="_blank"><img src="Resources/outlook.png" alt="outlook" height="40" width="40"></a>
 <a href="https://www.linkedin.com/in/raj-handique-402b7b179/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40"></a>
+<a href="https://www.instagram.com/xondikoi/" target="_blank"><img src="Resources/Instagram_icon.png" alt="instagram" height="40" width="40"></a>
 </p>
 
