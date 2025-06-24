@@ -22,8 +22,8 @@ I am a Master's student at Savitribai Phule Pune University. I am currently work
 
 <p align="left">
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="pytorch" height="40" width="40"/></a>
+<a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit" height="50" width="50"/></a>
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="Resources/matplotlib-original-wordmark.png" alt="matplotlib" height="30"/></a>
-<a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit" height="40" width="40"/></a>
 </p>
 
 #### Other Tools:
