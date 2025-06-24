@@ -7,7 +7,7 @@ I am a Master's student at Savitribai Phule Pune University. I am currently work
 
 ### Software Arsenal:
 
-#### Primary Weapons - Programming Languages:
+#### Programming Languages:
 
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
@@ -16,7 +16,7 @@ I am a Master's student at Savitribai Phule Pune University. I am currently work
 <a href="https://fortran-lang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg" alt="FORTRAN" width="40" height="40"/></a>
 </p> 
 
-#### Secondary Weapons - Machine Learning Tools and Software Frameworks:
+#### Machine Learning Tools and Software Frameworks:
 
 <p align="left">
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="pytorch" height="40" width="40"/></a>
@@ -27,7 +27,7 @@ I am a Master's student at Savitribai Phule Pune University. I am currently work
 <a href="https://root.cern/" target="_blank" rel="noreferrer"> <img src="https://root.cern/img/logos/ROOT_Logo/logos/linux/linux-icon-96.png" alt="ROOT" width="40" height="40"/></a>
 </p>
 
-#### Melee Weapons:
+#### Other Tools:
 
 <p align="left">
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" height="40" width="40"/> </a>
