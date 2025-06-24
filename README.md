@@ -14,8 +14,6 @@ I am a Master's student at Savitribai Phule Pune University. I am currently work
 <a href="https://https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="https://fortran-lang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg" alt="FORTRAN" width="40" height="40"/></a>
-<a href="https://root.cern/" target="_blank" rel="noreferrer"> <img src="https://root.cern/img/logos/ROOT_Logo/logos/linux/linux-icon-96.png" alt="ROOT" width="40" height="40"/></a>
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg" alt="jupyter" height="40"/></a>
 </p> 
 
 #### Secondary Weapons - Machine Learning Frameworks and Tools:
@@ -26,6 +24,7 @@ I am a Master's student at Savitribai Phule Pune University. I am currently work
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" height="40" width="40" ></a>
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="Resources/matplotlib-original-wordmark.png" alt="matplotlib" height="30"/></a>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" height="40" width="40"/></a>
+<a href="https://root.cern/" target="_blank" rel="noreferrer"> <img src="https://root.cern/img/logos/ROOT_Logo/logos/linux/linux-icon-96.png" alt="ROOT" width="40" height="40"/></a>
 </p>
 
 #### Melee Weapons - Other Tools:
@@ -36,7 +35,12 @@ I am a Master's student at Savitribai Phule Pune University. I am currently work
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="50" width="50"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a>
 <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="Resources/LaTeX_logo.svg" alt="latex" height="40"/></a>
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg" alt="jupyter" height="40"/></a>
 </p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=xondikoi03&theme=catppuccin_mocha&show_icons=true&include_all_commits=true&count_private=false)<br/>
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xondikoi03&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+
+---
+
+
