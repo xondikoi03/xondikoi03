@@ -38,6 +38,5 @@ I am a Master's student at Savitribai Phule Pune University. I am currently work
 <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="Resources/LaTeX_logo.svg" alt="latex" height="40"/></a>
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=xondikoi03&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=xondikoi03&theme=catppuccin_mocha&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xondikoi03&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+![Stats](https://github-readme-stats.vercel.app/api?username=xondikoi03&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xondikoi03&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
