@@ -5,7 +5,7 @@ I am a Master's student at Savitribai Phule Pune University. I am currently work
 
 ---
 
-<h2 align="centre"> Software Arsenal </h2>
+<h2 align="center"> Software Arsenal </h2>
 
 #### Programming Languages:
 
