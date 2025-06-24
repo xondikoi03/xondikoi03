@@ -49,6 +49,6 @@ I am a Master's student at Savitribai Phule Pune University. I am currently work
 
 <p align="left">
 <a href="https://www.adobe.com/apps/all/all-platforms" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop-40.svg" alt="photoshop" width="40" height="40"/></a>
-<a href="https://www.blackmagicdesign.com/in/products/davinciresolve" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/DaVinci_Resolve_Studio.png" alt="davinci" width="45" height="45"/></a>
 <a href="https://www.adobe.com/apps/all/all-platforms" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/illustrator-40.svg" alt="illustrator" width="40" height="40"/></a>
+<a href="https://www.blackmagicdesign.com/in/products/davinciresolve" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/DaVinci_Resolve_Studio.png" alt="davinci" width="45" height="45"/></a>
 </p>
