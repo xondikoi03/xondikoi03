@@ -5,7 +5,7 @@ I am a Master's student at Savitribai Phule Pune University. I am currently work
 
 ---
 
-### Software Arsenal:
+### Software Arsenal
 
 #### Programming Languages:
 
@@ -45,4 +45,8 @@ I am a Master's student at Savitribai Phule Pune University. I am currently work
 
 ---
 
+### Additional Tools:
 
+<p align="left">
+<a href=href="https://www.adobe.com/apps/all/all-platforms" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop-40.svg" alt="photoshop" width="40" height="40"/></a>
+</p>
