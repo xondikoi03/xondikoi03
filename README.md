@@ -64,3 +64,7 @@ Savitribai Phule Pune University, <br>
 Pune, Maharashtra, 411004 <br>
 </p>
 
+<p align="left">
+<a href="mailto:raj.handique519@deccansociety.org" target="_blank"><img src="https://commons.wikimedia.org/wiki/File:Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" alt="outlook" height="40" width="40"></a>
+</p>
+
