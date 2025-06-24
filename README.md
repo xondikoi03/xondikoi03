@@ -7,7 +7,7 @@ I am a Master's student at Savitribai Phule Pune University. I am currently work
 
 ### Software Arsenal:
 
-#### Programming Languages:
+#### Programming Languages and Tools:
 
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
@@ -17,6 +17,14 @@ I am a Master's student at Savitribai Phule Pune University. I am currently work
 <a href="https://root.cern/" target="_blank" rel="noreferrer"> <img src="https://root.cern/img/logos/ROOT_Logo/logos/linux/linux-icon-96.png" alt="ROOT" width="40" height="40"/></a>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg" alt="jupyter" height="40"/></a>
 </p> 
+
+#### Machine Learning Frameworks and Tools:
+
+<p align="left">
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="pytorch" height="40" width="40"/></a>
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" alt="matplotlib" height="40"/></a>
+<a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit" height="40"/></a>
+</p>
 
 #### Other Tools:
 
