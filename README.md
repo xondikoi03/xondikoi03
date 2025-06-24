@@ -30,9 +30,9 @@ I am a Master's student at Savitribai Phule Pune University. I am currently work
 #### Other Tools:
 
 <p align="left">
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" height="40" width="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" height="40" width="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="50" width="50"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" height="40" width="40"/></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" height="40" width="40"/></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="50" width="50"/></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a>
 <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="Resources/LaTeX_logo.svg" alt="latex" height="40"/></a>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg" alt="jupyter" height="40"/></a>
@@ -49,5 +49,6 @@ I am a Master's student at Savitribai Phule Pune University. I am currently work
 
 <p align="left">
 <a href="https://www.adobe.com/apps/all/all-platforms" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop-40.svg" alt="photoshop" width="40" height="40"/></a>
-<a href="https://www.blackmagicdesign.com/in/products/davinciresolve" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/DaVinci_Resolve_Studio.png" alt="davinci" width="45" height="45"/> </a>
+<a href="https://www.blackmagicdesign.com/in/products/davinciresolve" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/DaVinci_Resolve_Studio.png" alt="davinci" width="45" height="45"/></a>
+<a href="https://www.adobe.com/apps/all/all-platforms" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/illustrator-40.svg" alt="illustrator" width="40" height="40"/></a>
 </p>
