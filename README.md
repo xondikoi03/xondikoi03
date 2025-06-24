@@ -58,10 +58,9 @@ I am a Master's student at Savitribai Phule Pune University. I am currently work
 ### Contact Me:
 
 <p align="left">
-<strong>Raj Handique</strong>
-Department of Physics,
-Savitribai Phule Pune University,
-Pune, Maharashtra
-411007
+<strong>Raj Handique</strong> <br>
+Department of Physics, <br>
+Savitribai Phule Pune University, <br>
+Pune, Maharashtra, 411004 <br>
 </p>
 
