@@ -31,6 +31,7 @@ I am a Master's student at Savitribai Phule Pune University. I am currently work
 #### Other Tools (Melee Weapons):
 
 <p align="left">
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" height="40" width="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a>
 <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="Resources/LaTeX_logo.svg" alt="latex" height="40"/></a>
 </p>
