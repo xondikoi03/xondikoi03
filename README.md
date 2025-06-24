@@ -1,9 +1,10 @@
 <h1 align="center"> Hello, I am Raj</h1>
 
-### About Me:
-
+## About Me:
 I am a Master's student from Savitribai Phule Pune University. I am currently working on developing an open-source pipeline for CMS Open Data.
+
 ---
+
 ## Software Arsenal:
 
 ### Programming Languages:
