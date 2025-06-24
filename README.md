@@ -38,6 +38,7 @@ The following are what one would find me using for my bread and butter.
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a>
 <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="Resources/LaTeX_logo.svg" alt="latex" height="30"/></a>
 <a href="https://www.gnu.org/software/emacs/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/EmacsIcon.svg/2048px-EmacsIcon.svg.png" alt="emacs" height="40" width="40"/></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="code" height="40" width="40"/></a>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg" alt="jupyter" height="40"/></a>
 </p>
 
