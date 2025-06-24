@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, I am Raj</h1>
+<h1 align="center"> Wassup Nerds! xondikoi is here!</h1>
 
 ### About Me:
 I am a Master's student at Savitribai Phule Pune University. I am currently working on developing an open-source and streamlined pipeline for CMS Open Data. I am also keen and interested in HEP-Software and machine learning in HEP. 
@@ -7,7 +7,7 @@ I am a Master's student at Savitribai Phule Pune University. I am currently work
 
 ### Software Arsenal:
 
-#### Programming Languages and Tools:
+#### Programming Languages and Tools (Primary Weapons):
 
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
@@ -18,7 +18,7 @@ I am a Master's student at Savitribai Phule Pune University. I am currently work
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg" alt="jupyter" height="40"/></a>
 </p> 
 
-#### Machine Learning Frameworks and Tools:
+#### Machine Learning Frameworks and Tools (Secondary Weapons):
 
 <p align="left">
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="pytorch" height="40" width="40"/></a>
@@ -28,7 +28,7 @@ I am a Master's student at Savitribai Phule Pune University. I am currently work
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" height="40" width="40"/></a>
 </p>
 
-#### Other Tools:
+#### Other Tools (Melee Weapons):
 
 <p align="left">
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a>
