@@ -7,7 +7,7 @@ I am a Master's student at Savitribai Phule Pune University. I am currently work
 
 ### Software Arsenal:
 
-#### Programming Languages and Tools (Primary Weapons):
+#### Primary Weapons - Programming Languages and Tools:
 
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
@@ -18,7 +18,7 @@ I am a Master's student at Savitribai Phule Pune University. I am currently work
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg" alt="jupyter" height="40"/></a>
 </p> 
 
-#### Machine Learning Frameworks and Tools (Secondary Weapons):
+#### Secondary Weapons - Machine Learning Frameworks and Tools:
 
 <p align="left">
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="pytorch" height="40" width="40"/></a>
@@ -28,7 +28,7 @@ I am a Master's student at Savitribai Phule Pune University. I am currently work
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" height="40" width="40"/></a>
 </p>
 
-#### Other Tools (Melee Weapons):
+#### Melee Weapons - Other Tools:
 
 <p align="left">
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" height="40" width="40"/> </a>
