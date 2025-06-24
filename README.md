@@ -7,6 +7,8 @@ I am a Master's student at Savitribai Phule Pune University. I am currently work
 
 ### Software Arsenal
 
+The following are what one would find me using for my bread and butter.
+
 #### Programming Languages:
 
 <p align="left">
