@@ -3,7 +3,7 @@
 ### About Me:
 I am a Master's student at Savitribai Phule Pune University. I am currently working on developing an open-source and streamlined pipeline for CMS Open Data. I am also keen and interested in HEP-Software and machine learning in HEP. 
 
-<h2 align="center"> Software Arsenal </h2>
+<p align="center"> ## Software Arsenal </p>
 
 #### Programming Languages:
 
