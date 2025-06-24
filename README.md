@@ -41,7 +41,6 @@ I am a Master's student at Savitribai Phule Pune University. I am currently work
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=xondikoi03&theme=catppuccin_mocha&show_icons=true&include_all_commits=true&count_private=false&layout=compact)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xondikoi03&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
