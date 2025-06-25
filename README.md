@@ -39,8 +39,7 @@ I am a Master's student at Savitribai Phule Pune University. I am currently work
 </p>
 
 ---
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=xondikoi03&hide=contribs,prs&show_icons=true&theme=catpuccin_mocha" alt="stats">
-</p>
+![stats](https://github-readme-stats.vercel.app/api?username=xondikoi03&hide=contribs,prs&show_icons=true&theme=catppuccin_mocha)
 
 ---
 
