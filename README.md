@@ -1,7 +1,7 @@
 <h1 align="center"> Wassup nerds, welcome to my GitHub!</h1>
 
 ### About Me:
-I am a Master's student at Savitribai Phule Pune University. I am currently working on developing an open-source and streamlined pipeline for CMS Open Data. I am also keen and interested in HEP-Software and machine learning in HEP. You can learn more about me <a href="https://xondikoi03.github.io/"> here </a>. 
+I am a Master's student at Savitribai Phule Pune University. I am currently working on developing an open-source and streamlined pipeline for CMS Open Data. I am also keen and interested in HEP-Software and machine learning in HEP. You can learn more about me <a href="https://xondikoi03.github.io/"> here</a>. 
 
 <h2 align="left"> Software Arsenal </h2>
 
