@@ -38,11 +38,6 @@ I am a Master's student at Savitribai Phule Pune University. I am currently work
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg" alt="jupyter" height="40"/></a>
 </p>
 
----
-![stats](https://github-readme-stats.vercel.app/api?username=xondikoi03&hide=contribs,prs&show_icons=true&theme=catppuccin_mocha)
-
----
-
 ### Additional Tools:
 
 <p align="left">
